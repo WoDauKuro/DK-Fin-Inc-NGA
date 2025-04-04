@@ -60,7 +60,7 @@ The dataset covers adult financial behavior including access to accounts, mobile
 ```bash
 # Clone the repository
 git clone https://github.com/WoDauKuro/DK-Fin-Inc-NGA.git
-cd nigeria-financial-inclusion
+cd DK-Fin-Inc-NGA
 
 # Create a virtual environment (optional)
 python -m venv env
